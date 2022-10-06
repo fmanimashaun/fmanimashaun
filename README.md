@@ -36,13 +36,12 @@
   </a>
 
   <a href="https://hashnode.com/@fmanimashaun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="fmanimashaun" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/hashnode.svg" alt="fmanimashaun" height="30" width="40" />
   </a>
 
   <a href="https://www.hackerrank.com/fmanimashaun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fmanimashaun" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/hackerrank.webp" alt="fmanimashaun" height="30" width="40" />
   </a>
-
 
   <a href="https://fmanimashaun.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/website-icon.svg" alt="personal site" height="40" width="50" />
@@ -105,7 +104,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fmanimashaun&show_icons=true&theme=radical"  alt="Fisayo's GitHub stats"/>
   </a>
-
+</p>
+<p>
   <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fmanimashaun&show_icons=true&theme=radical"  alt="Contribution stats"/>
   </a>
@@ -119,6 +119,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=fmanimashaun&show_icons=true&theme=radical" alt="fmanimashaun" />
   </a>
 </p>
+
+
 
 
 
