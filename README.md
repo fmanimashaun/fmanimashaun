@@ -79,7 +79,7 @@
   </a> 
 
   <a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/github.svg" alt="Github" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
