@@ -6,7 +6,7 @@
 
 <h1 align="center">I'm Engr. Animashaun Fisayo Michael</h1>
 
-<h2 align="center">Trained Mechanical Engineer but now a Frontend Engineer | Facilities Management Technologies | Enthusiastic Full-stack Engineer</h2>
+<h5 align="center">Trained Mechanical Engineer but now a Frontend Engineer | Facilities Management Technologies | Enthusiastic Full-stack Engineer</h5>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fmanimashaun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view" /> 
@@ -104,8 +104,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fmanimashaun&show_icons=true&theme=radical"  alt="Fisayo's GitHub stats"/>
   </a>
-</p>
-<p>
+
   <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fmanimashaun&show_icons=true&theme=radical"  alt="Contribution stats"/>
   </a>
