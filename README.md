@@ -1,7 +1,3 @@
-https://github.com/Itswali/Portfolio/issues/19
-
-
-
 <h1 align="center">Hi 👋, I'm Engr. Animashaun Fisayo Michael</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
