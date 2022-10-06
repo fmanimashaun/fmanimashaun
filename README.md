@@ -1,19 +1,3 @@
-### Hi there 👋
-
-**fmanimashaun/fmanimashaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!--
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
@@ -70,17 +54,20 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--
 <p align="center">&nbsp;
  
 | Activities  |   Languages  |
 | ----------- | ------------ |
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tresorsawasawa&show_icons=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tresorsawasawa&show_icons=true&theme=tokyonight&layout=compact" alt="akash-chowrasia" />|
 </p>
-
+-->
 <hr>
 
 **Visitor count:**
 <img src="https://profile-counter.glitch.me/tresorsawasawa/count.svg" />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffmanimashaun.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <hr>
 
@@ -90,21 +77,21 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+<!--![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)-->
+<!--![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)-->
+<!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)-->
+<!--![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)-->
+<!--![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)-->
+<!--![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)-->
+<!--![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)-->
+<!--![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white)-->
+<!--![Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=white)-->
+<!--![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)-->
+<!--![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)-->
 
 <hr>
 <br>
@@ -112,7 +99,6 @@ Here are some ideas to get you started:
 🤓 **Interested:** <br>
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-
--->
+==-
 
 
