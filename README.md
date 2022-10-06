@@ -6,7 +6,7 @@
 
 <h1 align="center">I'm Engr. Animashaun Fisayo Michael</h1>
 
-<h5 align="center">Trained Mechanical Engineer but now a Frontend Engineer | Facilities Management Technologies | Enthusiastic Full-stack Engineer</h5>
+<h2 align="center">Trained Mechanical Engineer but now a Frontend Engineer | Facilities Management Technologies | Enthusiastic Full-stack Engineer</h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fmanimashaun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view" /> 
