@@ -115,7 +115,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmanimashaun&langs_count=8&show_icons=true&theme=radical"  alt="Fisayo's GitHub stats"/>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fmanimashaun&show_icons=true&theme=radical" alt="fmanimashaun" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fmanimashaun&&row=2&column=3&show_icons=true&theme=radical" alt="fmanimashaun" />
   </a>
 </p>
 
