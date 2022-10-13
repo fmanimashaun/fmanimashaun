@@ -115,6 +115,10 @@
   <a href="https://github.com/rahuldkjain/github-profile-readme-generator">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fmanimashaun&show_icons=true&theme=radical"  alt="Contribution stats"/>
   </a>
+  <a href="#">
+    <img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fmanimashaun&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+  </a>
+
 </P>
 
 <p>
@@ -125,7 +129,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=fmanimashaun&&row=2&column=3&show_icons=true&theme=radical" alt="fmanimashaun" />
   </a>
 </p>
-
 
 
 
