@@ -12,8 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=fmanimashaun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view" /> 
 </p>
 
+## Badges
+
+
 <p align="left">
-  <img src="https://projecteuler.net/profile/fmanimashaun.png" alt="Project Euler solution count" /> 
+    <img height="60" src="https://projecteuler.net/profile/fmanimashaun.png" alt="Project Euler solution count" /> 
+    <img width="60" src="img/html-css.png" alt="HTML/CSS certificate" /> 
 </p>
 
 
