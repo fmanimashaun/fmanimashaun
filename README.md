@@ -4,15 +4,15 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </h2>
 
-<h1 align="center">I'm Engr. Animashaun Fisayo Michael</h1>
+<h1 align="center">Engr. Fisayo Michael Animashaun (MNSE, FMP®, COREN)</h1>
 
-<h2 align="center">Trained Mechanical Engineer but now a Frontend Engineer | Facilities Management Technologies | Enthusiastic Full-stack Engineer</h2>
+<h2 align="center">Frontend Developer | Javascript programmer | Registered Mechanical Engineer (MNSE, COREN) | Facilities Management Technologies Developer</h2>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fmanimashaun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view" /> 
-</p>
+<h3 align="center">As an aspiring frontend developer, I am excited to bring my skills in HTML5, CSS3, and JavaScript to the table. I have a solid understanding of frontend technologies and a passion for designing and building the visual elements of a website and applications. My background in facility management has taught me the importance of problem-solving and quick decision-making, and I am eager to apply these skills in a new field. I have a strong understanding of industry best practices and standards, and I am dedicated to creating user-friendly and visually pleasing projects. I am an effective collaborator who is passionate about optimizing user experience.</h3>
 
-## Badges
+
+
+## Badges <img src="https://komarev.com/ghpvc/?username=fmanimashaun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view" />
 
 
 <p align="left">
