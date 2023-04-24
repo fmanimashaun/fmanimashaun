@@ -68,8 +68,59 @@
   </a>
 </p>
 
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  
+   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+  </a> 
+  
+   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/> 
+  </a>
+
+
+  
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
+</a>
+
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" alt="Axios" width="40" height="40"/> 
+</a>
+
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="Testing Library" width="40" height="40"/> 
+</a>
+
+  <a href="https://react-bootstrap.github.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="React-Bootstrap" width="40" height="40"/> 
+</a>
+  
+  <a href="https://reactrouter.com/web/guides/quick-start" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/react-router.svg" alt="React-Router-DOM" width="40" height="40"/> 
+</a>
+  
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/> 
+</a>
+  
+  <a href="https://stylelint.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/stylelint/stylelint/master/identity/stylelint-icon-white-512.png" alt="Stylelint" width="40" height="40"/> 
+</a>
+  
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/> 
+</a>
+  
+  <a href="https://mswjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/msw-mock-service-worker-seeklogo.com.svg" alt="MSW" width="40" height="40"/>
+</a>
+
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
