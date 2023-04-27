@@ -8,7 +8,7 @@
 
 <h1 align="center">Engr. Fisayo Michael Animashaun (MNSE, FMP®, COREN)</h1>
 
-<h3 align="center">As an aspiring frontend developer, I am excited to bring my skills in HTML5, CSS3, and JavaScript to the table. I have a solid understanding of frontend technologies and a passion for designing and building the visual elements of a website and applications. My background in facility management has taught me the importance of problem-solving and quick decision-making, and I am eager to apply these skills in a new field. I have a strong understanding of industry best practices and standards, and I am dedicated to creating user-friendly and visually pleasing projects. I am an effective collaborator who is passionate about optimizing user experience.</h3>
+<h3 align="center">As a mechanical engineer turned full-stack developer, I bring a unique perspective to software engineering. With a passion for problem-solving and a desire to constantly learn and improve, I am currently undergoing an intensive 10-month full-stack engineering program with Microverse, which will equip me with the skills necessary to thrive in the industry. Some of the technologies I have already worked with include React, Redux, Node.js, and Sass. I am excited to apply my analytical and technical skills to develop elegant, user-friendly solutions that make a positive impact on people's lives.</h3>
 
 
 
