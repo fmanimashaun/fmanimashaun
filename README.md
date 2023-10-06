@@ -8,9 +8,7 @@
 
 <h1 align="center">Engr. Fisayo Michael Animashaun (MNSE, FMP®, COREN)</h1>
 
-<h3 align="center">As a mechanical engineer turned full-stack developer, I bring a unique perspective to software engineering. With a passion for problem-solving and a desire to constantly learn and improve, I am currently undergoing an intensive 10-month full-stack engineering program with Microverse, which will equip me with the skills necessary to thrive in the industry. Some of the technologies I have already worked with include React, Redux, Node.js, and Sass. I am excited to apply my analytical and technical skills to develop elegant, user-friendly solutions that make a positive impact on people's lives.</h3>
-
-
+<h3 align="center"> Passionate Frontend Developer with approximately 2 years of experience, recognized for leading the charge in crafting exceptional frontend solutions. My track record speaks to delivering interfaces that seamlessly blend high quality, responsiveness, and user-friendliness, perfectly aligning with user needs and business objectives.</h3>
 
 ## Badges
 
@@ -20,10 +18,6 @@
     <img width="60" src="img/html-css.png" alt="HTML/CSS certificate" />
     <img width="60" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70101147" alt="Javascript" />
 </p>
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 
@@ -68,10 +62,6 @@
   </a>
 </p>
 
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
@@ -83,8 +73,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/> 
   </a>
 
-
-  
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
 </a>
@@ -121,7 +109,6 @@
   <img src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/msw-mock-service-worker-seeklogo.com.svg" alt="MSW" width="40" height="40"/>
 </a>
 
-
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -132,7 +119,7 @@
       
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+  </a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -140,7 +127,7 @@
        
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
 
   <a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/github.svg" alt="Github" width="40" height="40"/> 
@@ -177,6 +164,22 @@
    <a href="https://parceljs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/fmanimashaun/fmanimashaun/main/img/parcel-bundler.png" alt="parcel" width="40" height="40"/> 
   </a>
+
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
   
 </p>
 
@@ -189,7 +192,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fmanimashaun&show_icons=true&theme=radical"  alt="Contribution stats"/>
   </a>
   <a href="#">
-    <img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fmanimashaun&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+    <img alt="fmanimashaun Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fmanimashaun&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
   </a>
 
 </P>
@@ -201,28 +204,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fmanimashaun&&row=2&column=3&show_icons=true&theme=radical" alt="fmanimashaun" />
   </a>
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
 </p>
-
-
-
-
 
   <!--
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -293,7 +275,3 @@
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
   </a> 
 -->
-
-
-
-
