@@ -14,10 +14,12 @@
 
 <p align="left">
     <img height="60" src="https://projecteuler.net/profile/fmanimashaun.png" alt="Project Euler solution count" />
-    <img height="60" src="https://www.codewars.com/users/fmanimashaun/badges/large" alt="Codewars Profile Badges" /> 
+    <img height="60" src="https://www.codewars.com/users/fmanimashaun/badges/large" alt="Codewars Profile Badges" />
+    <br>
     <img width="60" src="img/html-css.png" alt="HTML/CSS" />
     <img width="60" src="img/javascript.png" alt="Javascript" />
-      <img width="60" src="img/react-router.png" alt="react-router" />
+    <img width="60" src="img/react-router.png" alt="react-router" />
+    <img width="60" src="img/ruby.png" alt="ruby" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
