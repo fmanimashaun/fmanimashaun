@@ -20,6 +20,7 @@
     <img width="60" src="img/javascript.png" alt="Javascript" />
     <img width="60" src="img/react-router.png" alt="react-router" />
     <img width="60" src="img/ruby.png" alt="ruby" />
+    <img width="60" src="img/ror.png" alt="ruby on rails" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
