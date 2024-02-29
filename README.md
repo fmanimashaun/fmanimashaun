@@ -8,7 +8,7 @@
 
 <h1 align="center">Engr. Fisayo Michael Animashaun (MNSE, FMP®, COREN)</h1>
 
-<h3 align="center"> Passionate Frontend Developer with approximately 2 years of experience, recognized for leading the charge in crafting exceptional frontend solutions. My track record speaks to delivering interfaces that seamlessly blend high quality, responsiveness, and user-friendliness, perfectly aligning with user needs and business objectives.</h3>
+<h3 align="center"> Transitioning software engineer demonstrating 2+ years of rapid growth in frontend and backend development (React, Ruby on Rails, Node.js), including self-study and the recently completed full-stack engineering program at Microverse. Successfully applying a deep understanding of operational needs, gained from 10+ years in facilities management, to create efficiency-boosting software solutions. Passionate about continuous learning and tackling new coding challenges.</h3>
 
 ## Badges
 
